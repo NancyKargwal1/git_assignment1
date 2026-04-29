@@ -25,7 +25,7 @@ This repository contains the practical implementation of Git and GitHub operatio
 - challenge.txt
 
 ## Repository Link
-https://github.com/yourusername/your-repository-name
+https://github.com/NancyKargwal1/git_assignment1.git
 
 ## Author
-Your Name
+Nancy
